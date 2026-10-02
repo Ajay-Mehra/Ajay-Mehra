@@ -3,11 +3,12 @@
 # 👨‍💻 Ajay Mehra
 ### Founder & Full-Stack Systems Engineer 🇮🇳
 
+</div>
+
 <p align="center">
-  <a href="https://typinghub.in"><img src="https://img.shields.io/badge/TypingHub.in-LIVE-0B5FFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TypingHub Live" /></a>
-  <a href="https://sarkariadda24x7.com"><img src="https://img.shields.io/badge/SarkariAdda24x7.com-LIVE-0A7B3E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SarkariAdda Live" /></a>
-  <img src="https://img.shields.io/badge/Role-Solo_Founder_%26_Operator-111827?style=for-the-badge" alt="Solo Founder" />
-  <img src="https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge" alt="India" />
+  <a href="https://typinghub.in" target="_blank"><img src="https://img.shields.io/badge/TypingHub.in-LIVE-0B5FFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TypingHub Live" /></a>
+  <a href="https://sarkariadda24x7.com" target="_blank"><img src="https://img.shields.io/badge/SarkariAdda24x7.com-LIVE-0A7B3E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SarkariAdda Live" /></a>
+  <a href="https://github.com/Ajay-Mehra" target="_blank"><img src="https://img.shields.io/badge/GitHub-@Ajay--Mehra-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
@@ -16,92 +17,74 @@
   <em>Product source code is proprietary and private by design. The applications are public and live.</em>
 </p>
 
-</div>
-
 ---
 
-## 🚀 Live Flagship Products (Owned & Operated)
+## 🚀 Live Flagship Products
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⌨️ <a href="https://typinghub.in">TypingHub.in</a></h3>
-      <p align="center">
-        <a href="https://typinghub.in"><img src="https://img.shields.io/website?url=https%3A%2F%2Ftypinghub.in&label=Status&up_message=ONLINE&down_message=OFFLINE&up_color=0A7B3E&style=flat-square" alt="Status" /></a>
-        <img src="https://img.shields.io/badge/Role-Owner_%26_Architect-1E293B?style=flat-square" alt="Owner & Architect" />
-      </p>
-      <p><strong>Advanced typing practice & CBT mock exam simulation engine</strong> engineered for Indian competitive exam aspirants (SSC CGL, SSC CHSL, RRB NTPC, High Court, and State examinations).</p>
-      <ul>
-        <li>Real exam-pattern timers with full/half error evaluation algorithms.</li>
-        <li>Dual layout support: English and Hindi typing environments.</li>
-        <li>Sole creator and operator: frontend, backend APIs, MongoDB, Nginx, PM2, Cloudflare, and Linux VPS.</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      </p>
-      <p align="center">👉 <strong><a href="https://typinghub.in">Visit Live Platform →</a></strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📰 <a href="https://sarkariadda24x7.com">SarkariAdda24x7.com</a></h3>
-      <p align="center">
-        <a href="https://sarkariadda24x7.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fsarkariadda24x7.com&label=Status&up_message=ONLINE&down_message=OFFLINE&up_color=0A7B3E&style=flat-square" alt="Status" /></a>
-        <img src="https://img.shields.io/badge/Role-Owner_%26_Architect-1E293B?style=flat-square" alt="Owner & Architect" />
-      </p>
-      <p><strong>Real-time government recruitment & exam information hub</strong> delivering verified notices, hall tickets, exam schedules, results, and welfare updates for Indian aspirants.</p>
-      <ul>
-        <li>Lightning-fast content delivery optimized for high concurrency traffic spikes.</li>
-        <li>Structured categorization across central, state, banking, and defense recruitments.</li>
-        <li>Sole creator and operator: end-to-end architecture, content distribution, automated alerts, and SEO.</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-      </p>
-      <p align="center">👉 <strong><a href="https://sarkariadda24x7.com">Visit Live Platform →</a></strong></p>
-    </td>
-  </tr>
-</table>
+### ⌨️ TypingHub.in
+**Repository:** [Ajay-Mehra/Typing](https://github.com/Ajay-Mehra/Typing) | **Status:** [![LIVE](https://img.shields.io/badge/LIVE-0A7B3E?style=flat-square)](https://typinghub.in)
 
----
+Advanced typing practice & CBT mock exam simulation engine engineered for Indian competitive exam aspirants (SSC CGL, CHSL, RRB NTPC, Courts & Govt exams).
 
-## 🛠️ Also Building & Engineering R&D
+**Key Features:**
+- Real exam-pattern timers with full/half error evaluation algorithms
+- Dual layout support: English and Hindi typing environments
+- Multi-language document handling
+- Performance analytics dashboard
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>📋 SarkariFormGuide</h4>
-      <p><em>In Active Development</em></p>
-      <p>Step-by-step guidance platform and on-device utility tools (document scanning, dimension resizing, OCR) to prevent application errors for Indian government exam candidates.</p>
-      <p><code>Owner & Builder</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>📈 AI-TOS</h4>
-      <p><em>Private Research Prototype</em></p>
-      <p>Autonomous quantitative research & paper-trading operating system integrating multi-agent confluence, risk engines, order-block tracking, and algorithmic model evaluation.</p>
-      <p><code>Owner & Builder</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🌿 PlantGuard-AI</h4>
-      <p><em>Collaborative Project</em></p>
-      <p>Multi-agent agricultural intelligence system and plant pathology diagnostics for real-time crop disease detection and soil health advisory.</p>
-      <p><code>Collaborator</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## ⚡ Production Tech Stack
-
+**Tech Stack:**
 <p align="center">
-  <b>Frontend & Interfaces</b><br />
+  <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
+</p>
+
+👉 **[Visit TypingHub.in](https://typinghub.in)** | 📦 **[GitHub Repo](https://github.com/Ajay-Mehra/Typing)**
+
+---
+
+### 📰 SarkariAdda24x7.com
+**Status:** [![LIVE](https://img.shields.io/badge/LIVE-0A7B3E?style=flat-square)](https://sarkariadda24x7.com)
+
+Real-time government recruitment & exam information hub delivering verified notices, hall tickets, exam schedules, results, and welfare updates for Indian aspirants.
+
+**Key Features:**
+- Lightning-fast content delivery optimized for high concurrency traffic spikes
+- Structured categorization: Central, State, Banking, and Defense recruitments
+- Real-time notifications & alerts system
+- SEO-optimized content distribution
+
+**Tech Stack:**
+<p align="center">
+  <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+</p>
+
+👉 **[Visit SarkariAdda24x7.com](https://sarkariadda24x7.com)**
+
+---
+
+## 📦 Active Public Projects
+
+| Project | Repository | Status | Description |
+|---------|-----------|--------|-------------|
+| **TypingHub Platform** | [Ajay-Mehra/Typing](https://github.com/Ajay-Mehra/Typing) | 🟢 **Active** | Typing practice & mock exam engine |
+| **Profile** | [Ajay-Mehra/Ajay-Mehra](https://github.com/Ajay-Mehra/Ajay-Mehra) | 🟢 **Active** | Personal portfolio & GitHub profile |
+
+---
+
+## ⚡ Complete Tech Stack
+
+<div align="center">
+
+**Frontend & Interfaces**
+<p>
   <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -109,16 +92,16 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<p align="center">
-  <b>Backend & Databases</b><br />
+**Backend & Databases**
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=rest&logoColor=white" />
 </p>
 
-<p align="center">
-  <b>Infrastructure, DevOps & Security</b><br />
+**Infrastructure & DevOps**
+<p>
   <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
@@ -126,26 +109,35 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+</div>
+
 ---
 
-## 🏛️ Engineering & Ownership Principles
+## 🏛️ Engineering Philosophy
 
-- **End-to-End Execution:** From initial system architecture and schema design to zero-downtime VPS deployment, reverse-proxy caching, and search engine optimization.
-- **Proprietary & Battle-Tested:** Core product codebases are maintained in secure private repositories to protect business logic, while the customer-facing applications run live in production.
-- **Performance & Reliability:** Engineered for fast initial load times, low latency, and stability under peak traffic surges during government exam notification cycles.
+- **End-to-End Execution:** System architecture, schema design, zero-downtime deployment, reverse-proxy caching, and SEO optimization
+- **Proprietary & Battle-Tested:** Core codebases in private repositories; customer-facing applications run live in production
+- **Performance & Reliability:** Engineered for sub-second load times, low latency, and stability under peak traffic (government notification cycles)
+- **Solo Full-Stack:** Ownership across frontend, backend, database design, and infrastructure
+
+---
+
+## 📊 Repository Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajay-Mehra&show_icons=true&theme=dark&hide_border=true&count_private=false" alt="GitHub Stats" />
+</p>
 
 ---
 
 <div align="center">
 
-## 📬 Connect & Official Channels
+## 📬 Connect & Explore
 
 [![GitHub](https://img.shields.io/badge/GitHub-@Ajay--Mehra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajay-Mehra)
 [![TypingHub](https://img.shields.io/badge/TypingHub.in-Platform-0B5FFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://typinghub.in)
-[![SarkariAdda](https://img.shields.io/badge/SarkariAdda24x7.com-Portal-0A7B3E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sarkariadda24x7.com)
+[![SarkariAdda](https://img.shields.io/badge/SarkariAdda24x7-Portal-0A7B3E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sarkariadda24x7.com)
 
-<br />
-
-<sub>© Ajay Mehra · Founder & Full-Stack Systems Engineer · All products operated independently</sub>
+<sub>© 2025 Ajay Mehra · Founder & Full-Stack Systems Engineer · Built with ❤️ in India</sub>
 
 </div>
