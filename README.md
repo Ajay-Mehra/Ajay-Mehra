@@ -7,12 +7,12 @@
 
 <p align="center">
   <a href="https://typinghub.in" target="_blank"><img src="https://img.shields.io/badge/TypingHub.in-LIVE-0B5FFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TypingHub Live" /></a>
-  <a href="https://sarkariadda24x7.com" target="_blank"><img src="https://img.shields.io/badge/SarkariAdda24x7.com-LIVE-0A7B3E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SarkariAdda Live" /></a>
+  <a href="https://t.me/TypingHubOfficial" target="_blank"><img src="https://img.shields.io/badge/Telegram-TypingHubOfficial-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://github.com/Ajay-Mehra" target="_blank"><img src="https://img.shields.io/badge/GitHub-@Ajay--Mehra-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <strong>I design, build, deploy, and operate high-traffic production web platforms independently.</strong><br />
+  <strong>I design, build, deploy and run production web platforms for Indian government exam aspirants, on my own.</strong><br />
   From frontend UI/UX and resilient backend systems to Linux VPS infrastructure, Nginx, MongoDB, and SEO.<br />
   <em>Product source code is proprietary and private by design. The applications are public and live.</em>
 </p>
@@ -24,14 +24,15 @@
 ### ⌨️ TypingHub.in
 **Repository:** [Ajay-Mehra/Typing](https://github.com/Ajay-Mehra/Typing) | **Status:** [![LIVE](https://img.shields.io/badge/LIVE-0A7B3E?style=flat-square)](https://typinghub.in) | **Role:** Owner & Architect
 
-Advanced typing practice & CBT mock exam simulation engine engineered for Indian competitive exam aspirants (SSC CGL, CHSL, RRB NTPC, High Court, and State exams).
+Exam-pattern typing practice for Indian government skill tests: SSC CGL DEST, SSC CHSL, RRB NTPC, Supreme Court and High Courts, Delhi Police, CAPF, state boards and 40+ exam pages.
 
 **Key Features:**
-- ⚡ Real exam-pattern timers with full/half error evaluation algorithms
-- 🌐 Dual layout support: English and Hindi typing environments
-- 📊 Performance analytics dashboard with detailed metrics
-- ⌨️ Multi-document handling with live accuracy tracking
-- 🔐 Secure user authentication & progress tracking
+- ⚡ Exam timers and scoring per exam: SSC full/half mistakes, RRB and CAPF allowances, CPCT net WPM, court mistake caps, KDPH
+- 🇮🇳 English and Hindi: Unicode (Mangal) output from Remington GAIL, Inscript, Kruti Dev and phone keyboards
+- 🔴 Daily live tests in English and Hindi for upcoming exams
+- 🎓 Exam courses with 200+ English and 100+ Hindi passages at each exam's length
+- 📊 Instant report with net WPM, accuracy and a highlighted mistake review
+- 🏅 QR-verified practice certificates
 
 **Tech Stack:**
 <p align="center">
@@ -48,12 +49,12 @@ Advanced typing practice & CBT mock exam simulation engine engineered for Indian
 ---
 
 ### 📰 SarkariAdda24x7.com
-**Status:** [![LIVE](https://img.shields.io/badge/LIVE-0A7B3E?style=flat-square)](https://sarkariadda24x7.com) | **Role:** Owner & Architect
+**Status:** ![On hold](https://img.shields.io/badge/On_hold_·_being_rebuilt-FFA500?style=flat-square) | **Role:** Owner & Architect
 
 Real-time government recruitment & exam information hub delivering verified notices, hall tickets, exam schedules, results, and welfare updates for Indian aspirants.
 
 **Key Features:**
-- ⚡ Lightning-fast content delivery optimized for high concurrency traffic spikes
+- ⚡ Fast pages built for the traffic spikes of result and notification days
 - 📋 Structured categorization: Central, State, Banking, and Defense recruitments
 - 🔔 Real-time notifications & alerts system with push support
 - 📱 Mobile-responsive design with offline capability
@@ -68,7 +69,7 @@ Real-time government recruitment & exam information hub delivering verified noti
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
 
-👉 **[Visit SarkariAdda24x7.com](https://sarkariadda24x7.com)**
+👉 **[SarkariAdda24x7.com](https://sarkariadda24x7.com)** (on hold while it is rebuilt)
 
 ---
 
@@ -180,11 +181,11 @@ Multi-agent agricultural intelligence system and plant pathology diagnostics for
 
 ## 🏛️ Engineering & Operational Philosophy
 
-- **End-to-End Ownership:** System architecture design, database schema optimization, zero-downtime VPS deployment, reverse-proxy caching, SEO optimization, and performance tuning
-- **Proprietary & Battle-Tested:** Core product codebases maintained in secure private repositories to protect business logic; customer-facing applications run live in production with 99.9%+ uptime
-- **Performance & Reliability:** Engineered for sub-second load times, ultra-low latency, and stability under extreme peak traffic (government exam notification cycles with 10K+ concurrent users)
-- **Solo Full-Stack Excellence:** Complete ownership across frontend architecture, backend APIs, database design, infrastructure management, DevOps, and security
-- **Scalability First:** Designed for horizontal scaling, load balancing, and graceful degradation under high concurrency
+- **End-to-end ownership:** architecture, database design, CI-tested deploys to a Linux VPS behind Nginx and Cloudflare, SEO and performance tuning
+- **Private code, public products:** product source stays in private repositories; the applications are live for anyone to use
+- **Tested before every release:** each push builds, prerenders and passes routing, regression, analytics and mobile-layout checks before it reaches the server
+- **Exam facts from the source:** exam rules on the sites are checked against the official notification and linked to it
+- **Solo full-stack:** frontend, backend APIs, payments, infrastructure, DevOps and security
 
 ---
 
@@ -195,7 +196,7 @@ Multi-agent agricultural intelligence system and plant pathology diagnostics for
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Mehra&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Ajay-Mehra&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -204,9 +205,9 @@ Multi-agent agricultural intelligence system and plant pathology diagnostics for
 
 | Area | Focus | Impact |
 |------|-------|--------|
-| **Production Platforms** | Stability, performance, user growth | 🟢 Maintained at enterprise level |
+| **TypingHub.in** | More exams, Hindi passages, live tests, page speed | 🟢 Live and growing |
 | **R&D & Innovation** | AI/ML integration, autonomous systems | 🔵 Active development |
-| **Infrastructure** | Scaling for 10K+ concurrent users | 🟡 Continuous optimization |
+| **Infrastructure** | Page speed (Core Web Vitals) and safe deploys on a shared VPS | 🟡 Continuous optimization |
 | **Collaboration** | Agricultural AI & intelligent systems | 🟢 Active partnerships |
 
 ---
@@ -217,10 +218,13 @@ Multi-agent agricultural intelligence system and plant pathology diagnostics for
 
 [![GitHub](https://img.shields.io/badge/GitHub-@Ajay--Mehra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajay-Mehra)
 [![TypingHub](https://img.shields.io/badge/TypingHub.in-Platform-0B5FFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://typinghub.in)
-[![SarkariAdda](https://img.shields.io/badge/SarkariAdda24x7-Portal-0A7B3E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sarkariadda24x7.com)
+[![Telegram](https://img.shields.io/badge/Telegram-TypingHubOfficial-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TypingHubOfficial)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbB5BgZIHphQNvybGU3V)
+[![YouTube](https://img.shields.io/badge/YouTube-TypingHub-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TypingHub-TypingPracticeforSSC)
+[![Instagram](https://img.shields.io/badge/Instagram-typinghub.in-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/typinghub.in/)
 
 ---
 
-<sub>© 2025 Ajay Mehra · Founder & Full-Stack Systems Engineer · Built with ❤️ in India</sub>
+<sub>© 2025–2026 Ajay Mehra · Founder & Full-Stack Systems Engineer · Built with ❤️ in India</sub>
 
 </div>
